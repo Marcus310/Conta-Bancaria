@@ -23,7 +23,6 @@ O projeto se basseia em uma simulação de uma experiênica que um usuário de c
 - ![image](https://github.com/Marcus310/Conta-Bancaria/assets/80717972/d56a6cba-b61b-4cda-b243-54d5c9c29a2a)
 
 - **Feature**
-  
- ![image](https://github.com/Marcus310/Conta-Bancaria/assets/80717972/4281e1e6-76e0-41ee-9535-f4d368a57cc4)
+- ![image](https://github.com/Marcus310/Conta-Bancaria/assets/80717972/4281e1e6-76e0-41ee-9535-f4d368a57cc4)
 
 
